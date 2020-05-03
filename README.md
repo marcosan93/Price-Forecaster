@@ -12,3 +12,7 @@ Using a Recurrent Neural Network: LSTM (Long Short-Term Memory) Network:
 Adding Technical Indicator Values:
 
 - [Technical Indicators on Bitcoin Using Python](https://medium.com/@marcosan93/technical-indicators-on-bitcoin-using-python-c392b4a33810?source=friends_link&sk=2135a7c79769d19a1952c9bad3566fa0)
+
+Using Technical Indicators as Multivariable Inputs in a Neural Network:
+
+- [Using Deep Learning AI to Predict the Stock Market](https://medium.com/@marcosan93/using-deep-learning-ai-to-predict-the-stock-market-9399cf15a312?sk=d78bf38fdc19c41129051ddd77cfab80)
