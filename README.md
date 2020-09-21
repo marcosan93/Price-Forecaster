@@ -19,4 +19,4 @@ Using Technical Indicators as Multivariable Inputs in a Neural Network:
 
 Backtesting ARIMA Model
 
-- [How Does Machine Learning Perform in the Stock Market](https://medium.com/swlh/how-does-machine-learning-perform-in-the-stock-market-33bf214b67cf?source=friends_link&sk=c7a9ebc89c365e3d92eda1e748046a37)
+- [How Does Machine Learning Perform in the Stock Market?](https://medium.com/swlh/how-does-machine-learning-perform-in-the-stock-market-33bf214b67cf?source=friends_link&sk=c7a9ebc89c365e3d92eda1e748046a37)
