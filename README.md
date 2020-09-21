@@ -16,3 +16,7 @@ Adding Technical Indicator Values:
 Using Technical Indicators as Multivariable Inputs in a Neural Network:
 
 - [Using Deep Learning AI to Predict the Stock Market](https://medium.com/@marcosan93/using-deep-learning-ai-to-predict-the-stock-market-9399cf15a312?sk=d78bf38fdc19c41129051ddd77cfab80)
+
+Backtesting ARIMA Model
+
+- [How Does Machine Learning Perform in the Stock Market](https://medium.com/swlh/how-does-machine-learning-perform-in-the-stock-market-33bf214b67cf?source=friends_link&sk=c7a9ebc89c365e3d92eda1e748046a37)
