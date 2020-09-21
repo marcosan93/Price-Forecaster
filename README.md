@@ -1,4 +1,4 @@
-# Predicting Future Prices of Bitcoin and More
+# Predicting Future Prices of Bitcoin and Stocks
 
 ### Articles on Medium
 Using Time Series models: SARIMA and FB Prophet to forecast Bitcoin prices:
